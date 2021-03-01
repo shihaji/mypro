@@ -13,5 +13,9 @@ public class MyController {
 		
 		return "login";
 	}
+	
+	public String login2() {
+		return "hello";
+	}
 
 }
