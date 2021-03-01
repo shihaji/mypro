@@ -10,7 +10,7 @@ public class MyController {
 	}
 	
 	public String login() {
-		
+		System.out.println("hello world");
 		return "login";
 	}
 	
