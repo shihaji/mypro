@@ -8,5 +8,10 @@ public class MyController {
 	public String hello() {
 		return "helo";
 	}
+	
+	public String login() {
+		
+		return "login";
+	}
 
 }
