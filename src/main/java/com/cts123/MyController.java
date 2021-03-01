@@ -15,6 +15,7 @@ public class MyController {
 	}
 	
 	public String login2() {
+		System.out.println("world hello");
 		return "hello";
 	}
 
